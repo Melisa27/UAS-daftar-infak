@@ -1,0 +1,4 @@
+package com.informatika19100082.melisa_19100082_daftarinfak.network;
+
+public interface ApiService {
+}
